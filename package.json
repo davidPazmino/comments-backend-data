@@ -1,0 +1,12 @@
+{
+  "name": "comments-backend-data",
+  "version": "1.0.0",
+  "description": "Servicio de datos simulado para comentarios",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
